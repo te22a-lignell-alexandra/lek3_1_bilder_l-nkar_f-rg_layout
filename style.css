@@ -1,0 +1,15 @@
+h2{
+    color:aqua;
+    background-color: darkblue;
+    text-align: right;
+}
+h3{
+    color:blueviolet;
+}
+ul{
+    color:aquamarine;
+    background-color: black;
+}
+body{
+    background-image: url('./img/moorish-pattern_644416-582.jpg');
+}
